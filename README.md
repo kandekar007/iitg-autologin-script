@@ -1,3 +1,4 @@
 # iitg-autologin-script
-## autologin for agnigarh IP
-### keep both files in same directory (also check chromedriver.exe location in the script)
+## Autologin for agnigarh IP
+### Keep both files in same directory (also check chromedriver.exe location in the script)
+### VPN bypass (run after every reboot)
