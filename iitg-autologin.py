@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-usernameStr = '180106008'
-passwordStr = '351999@rK'
+usernameStr = 'rollnumber'
+passwordStr = 'password'
 
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-ssl-errors=yes')
